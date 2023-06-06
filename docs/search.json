@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anthony’s example website",
+    "section": "",
+    "text": "Welcome to my Quarto website"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#title-here",
+    "href": "index.html#title-here",
+    "title": "Anthony’s example website",
+    "section": "Title here",
+    "text": "Title here"
+  },
+  {
+    "objectID": "analyses/example_1.html",
+    "href": "analyses/example_1.html",
+    "title": "Example analysis",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]
